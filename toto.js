@@ -1,5 +1,5 @@
 const test = "java"
-const e = true;
 const z = () => {
     console.log("test")
 }
+let e = 3
