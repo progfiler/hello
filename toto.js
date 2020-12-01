@@ -4,3 +4,4 @@ const z = () => {
 }
 const x = 56
 let e = 4
+let z = 2
