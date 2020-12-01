@@ -1,6 +1,6 @@
-const a = 1
-const e = 12
-let a = 1
+const a = 0
+const e = 11
+let a = 12
+a = 1
+a = 2
 a = 3
-a = 5
-a = 7
