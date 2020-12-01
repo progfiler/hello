@@ -28,3 +28,5 @@ let e = 4
 () => {
     console.log('test')
 }
+
+let julien = 4;
