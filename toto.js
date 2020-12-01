@@ -4,3 +4,6 @@ const z = () => {
 }
 const x = 5
 let e = 4
+() => {
+    console.log('test')
+}
